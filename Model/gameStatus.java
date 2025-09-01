@@ -1,4 +1,4 @@
-package br.com.dio.model;
+package sudoku-g.model;
 
 public enum GameStatusEnum {
 
